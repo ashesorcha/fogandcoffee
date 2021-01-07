@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>fog&amp;coffee</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../fog&coffee.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="banner">
+		<ul>
+		<li id="title">fog&amp;coffee</li>
+		<li>words</li>
+		<li>writings</li>
+		<li>miscellany</li>
+		</ul>
+	</div>
+</body>
+</html>
+
